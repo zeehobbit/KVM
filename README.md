@@ -7,3 +7,7 @@ https://www.reddit.com/r/linuxmasterrace/comments/2z30dq/gpu_passthrough_or_how_
 https://bbs.archlinux.org/viewtopic.php?id=162768
 
 https://bufferoverflow.io/gpu-passthrough/
+
+https://ubuntuforums.org/showthread.php?t=2266916
+
+http://www.se7ensins.com/forums/threads/how-to-setup-a-gaming-virtual-machine-with-gpu-passthrough-qemu-kvm-libvirt-and-vfio.1371980/
