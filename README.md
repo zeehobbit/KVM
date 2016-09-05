@@ -19,3 +19,10 @@ https://bufferoverflow.io/gpu-passthrough/
 https://ubuntuforums.org/showthread.php?t=2266916
 
 http://www.se7ensins.com/forums/threads/how-to-setup-a-gaming-virtual-machine-with-gpu-passthrough-qemu-kvm-libvirt-and-vfio.1371980/
+
+## Software
+
+https://en.wikipedia.org/wiki/Puppet_(software)
+
+https://en.wikipedia.org/wiki/Spacewalk_(software)
+
